@@ -16,4 +16,8 @@ class BasicCar {
     attack() {
         console.log("Attack!");
     }
+
+    defend() {
+        console.log("Defend!");
+    }
 }
